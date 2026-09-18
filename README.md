@@ -59,7 +59,7 @@ README служит картой изученных тем и соответст
 - Условие: [what-time-statement.md](what-time-statement.md)
 - Решение: [what_time.go](what_time.go)
 
-## Level 3. Коллекции
+## 3. Коллекции
 
 Описание уровня:
 
